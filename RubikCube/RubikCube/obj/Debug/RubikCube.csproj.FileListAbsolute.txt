@@ -1,0 +1,11 @@
+C:\Users\seby5\source\repos\RubikCube\RubikCube\bin\Debug\RubikCube.exe.config
+C:\Users\seby5\source\repos\RubikCube\RubikCube\bin\Debug\RubikCube.exe
+C:\Users\seby5\source\repos\RubikCube\RubikCube\bin\Debug\RubikCube.pdb
+C:\Users\seby5\source\repos\RubikCube\RubikCube\obj\Debug\RubikCube.csproj.AssemblyReference.cache
+C:\Users\seby5\source\repos\RubikCube\RubikCube\obj\Debug\RubikCube.Form1.resources
+C:\Users\seby5\source\repos\RubikCube\RubikCube\obj\Debug\RubikCube.Properties.Resources.resources
+C:\Users\seby5\source\repos\RubikCube\RubikCube\obj\Debug\RubikCube.csproj.GenerateResource.cache
+C:\Users\seby5\source\repos\RubikCube\RubikCube\obj\Debug\RubikCube.csproj.CoreCompileInputs.cache
+C:\Users\seby5\source\repos\RubikCube\RubikCube\obj\Debug\RubikCube.exe
+C:\Users\seby5\source\repos\RubikCube\RubikCube\obj\Debug\RubikCube.pdb
+C:\Users\seby5\source\repos\RubikCube\RubikCube\bin\Debug\CubeData.txt
